@@ -1,8 +1,7 @@
-<!-- battery.html -->
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>وضعیت باتری</title>
   <script>
     async function getBattery() {
